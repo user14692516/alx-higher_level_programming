@@ -1,3 +1,4 @@
- in "abcdefghijklmnopqrstuvwxyz":
-    if(i not in "qe"):
-        print("{}".format(i), end='')
+#!/usr/bin/python3
+for b in "abcdefghijklmnopqrstuvwxyz":
+    if(b not in "qe"):
+        print("{}".format(b), end='')
